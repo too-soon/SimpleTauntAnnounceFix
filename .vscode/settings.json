@@ -1,0 +1,30 @@
+{
+    "Lua.diagnostics.globals": [
+        "Settings",
+        "COMBATLOG_OBJECT_RAIDTARGET1",
+        "COMBATLOG_OBJECT_RAIDTARGET2",
+        "COMBATLOG_OBJECT_RAIDTARGET3",
+        "COMBATLOG_OBJECT_RAIDTARGET4",
+        "COMBATLOG_OBJECT_RAIDTARGET5",
+        "COMBATLOG_OBJECT_RAIDTARGET6",
+        "COMBATLOG_OBJECT_RAIDTARGET7",
+        "COMBATLOG_OBJECT_RAIDTARGET8",
+        "SlashCmdList",
+        "COMBATLOG_OBJECT_RAIDTARGET_MASK",
+        "COMBATLOG_OBJECT_AFFILIATION_MINE",
+        "GetCVar",
+        "UNKNOWNOBJECT",
+        "COMBATLOG_OBJECT_TYPE_PLAYER",
+        "COMBATLOG_OBJECT_AFFILIATION_RAID",
+        "COMBATLOG_OBJECT_AFFILIATION_PARTY",
+        "RAID_CLASS_COLORS",
+        "UIDropDownMenu_SetText",
+        "UIDropDownMenu_JustifyText",
+        "UIDropDownMenu_SetWidth",
+        "UIDropDownMenu_SetButtonWidth",
+        "UIDropDownMenu_AddButton",
+        "getglobal",
+        "UIDropDownMenu_CreateInfo",
+        "UIDropDownMenu_Initialize"
+    ]
+}
